@@ -1,0 +1,38 @@
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 0px;
+    background-color: purple;
+    background-image: url("download.png");
+}
+
+#lightbulb {
+    width: 100px;
+    margin-top: 50px;
+    margin-bottom:50px;
+}
+
+#lightswitch {
+    width: 100px;
+    margin-top: 50px;
+    margin-bottom:50px;
+    cursor: pointer;
+}
+
+#sheldon {
+    visibility: hidden;
+}
+
+#vanguy {
+    visibility: hidden;
+}
+
+#like {
+    visibility: hidden;
+}
+
+#irony {
+    visibility: hidden;;
+}
